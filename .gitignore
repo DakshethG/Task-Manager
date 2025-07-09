@@ -1,0 +1,5 @@
+FrontEnd/Task-Manager/src/assets/images/*.zip
+FrontEnd/Task-Manager/src/assets/images/*.zip
+*.zip
+node_modules/
+dist/
